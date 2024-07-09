@@ -8,3 +8,6 @@ Um projeto muito agregador que me ajudou a por na prática os conhecimentos do C
   <img src="https://github.com/Victor-Lis/Financas-Dashboard-with-PowerBI/blob/master/relatorio_de_vendas-2.png">
   <img src="https://github.com/Victor-Lis/Financas-Dashboard-with-PowerBI/blob/master/relatorio_de_vendas-3.png">
 </div>
+
+## Autores
+- [@Victor-Lis](https://github.com/Victor-Lis)
